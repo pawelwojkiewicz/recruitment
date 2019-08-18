@@ -1,0 +1,42 @@
+{
+   "1":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula. Morbi ullamcorper pellentesque leo. ",
+      "productname":"Product 1",
+      "shortdescription":"description 1"
+   },
+   "2":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 2",
+      "shortdescription":"description 2"
+   },
+   "3":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 3",
+      "shortdescription":"description 3"
+   },
+   "4":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 4",
+      "shortdescription":"description 4"
+   },
+   "5":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 5",
+      "shortdescription":"description 5"
+   },
+   "6":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 6",
+      "shortdescription":"description 6"
+   },
+   "7":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 7",
+      "shortdescription":"description 7"
+   },
+   "8":{
+      "longdescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet mollis ante, et facilisis libero. In massa quam, pharetra in posuere vel, semper vitae ligula.",
+      "productname":"Product 8",
+      "shortdescription":"description 8"
+   }
+}
